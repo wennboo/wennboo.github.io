@@ -5,7 +5,7 @@ title: Publications
 ---
 
 
-### Journal（期刊）
+#### Journal（期刊）
 
 - Wang B, Tian Y-P, Han Z. Convergence to Zero of Quadratic Lyapunov Functions for Multi-Agent Systems in Time-Varying Directed Networks[J]. IEEE Transactions on Automatic Control, 2023.
 - Wang B, Han Z, Zhai C, Lv X. Robust consensus of multi-agent systems with multiplicative uncertainties and its application in time synchronization[J]. International Journal of Robust and Nonlinear Control, 2023, 33(15) : 9469 –9485.
@@ -28,7 +28,7 @@ title: Publications
 - Xie D, Zhang H, Zhang H, Wang B. Exponential stability of switched systems with unstable subsystems: a mode-dependent average dwell time approach[J]. Circuits, Systems, and Signal Processing, 2013, 32 : 3093 – 3105.
 
   <br>
-### Conference 
+#### Conference 
 
 - Wang S, Wang B, Han Z, Lin Z. Local Sensing based Multi-agent Pursuit-evasion with Deep Reinforcement Learning[C] // 2022 China Automation Congress (CAC). 2022 : 6748 – 6752.
 - Wang B, Tian Y-P, Han Z. Consensus analysis of discrete-time multi-agent systems in switching networks: a time-varying Lyapunov function method[C]// 2021 40th Chinese Control Conference (CCC). 2021 : 5228 – 5233.
