@@ -27,7 +27,7 @@ title: Publications
 - Wang B, Zhang H, Xie D, Wang G, Dang C. Asynchronous stabilisation of impulsive switched systems[J]. IET Control Theory & Applications, 2013, 7(16) :2021 – 2027.
 - Xie D, Zhang H, Zhang H, Wang B. Exponential stability of switched systems with unstable subsystems: a mode-dependent average dwell time approach[J]. Circuits, Systems, and Signal Processing, 2013, 32 : 3093 – 3105.
 
-  <br>
+
 #### Conference (会议)
 
 - Wang S, Wang B, Han Z, Lin Z. Local Sensing based Multi-agent Pursuit-evasion with Deep Reinforcement Learning[C] // 2022 China Automation Congress (CAC). 2022 : 6748 – 6752.
@@ -43,7 +43,6 @@ title: Publications
 - Wang B, Tian Y-P. Consensus of discrete-time multi-agent systems with relative-state-dependent noises for a class of switching topology[C] // 2016 35th Chinese Control Conference (CCC). 2016 : 7843 – 7848.
 - Wang B, Tian Y-P. Consensus with relative-state-dependent noises in time-varying networks[C] // 2016 22nd International Conference on Automation and Computing (ICAC). 2016 : 150 – 155.
 
-  <br>
 
 
 
