@@ -28,13 +28,13 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # For external links add external: true
 links:
   - title: Biography（个人简介）
-    url: /
+    url: 
   - title: Publications（论文）
-    url: /publications/
+    url: publications/
   - title: Projects（项目）
-    url: /projects/
+    url: projects/
   - title: Teams（团队）
-    url: /teams/
+    url: teams/
   # - title: Courses（课程）
   #   url: /hobbies/
   # # - title: Notes
