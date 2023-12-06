@@ -1,0 +1,80 @@
+title: Bo Wang (王博)
+# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+# description: Two roads diverged in woods, I took the one less traveled by.
+#Comment out url when working locally to resolve base urls correctly
+url: https://wennboo.github.io/
+
+# Owner/author information
+owner:
+  name: Bo Wang
+  avatar: wb0.png
+  bio: 多少事，从来急，天地转，光阴迫，一万年太久，只争朝夕
+  email: bowang1988@163.com
+  Institute: https://auto.hdu.edu.cn/2020/0714/c3803a110745/page.htm
+  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  # twitter: lancecai2002
+  github: wennboo
+  # linkedin: hanlincai
+  scholar: https://scholar.google.com.sg/citations?user=5bHTfnwAAAAJ&hl=zh-CN
+
+  
+google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# bing_verify: ""
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Biography（个人简介）
+    url: /
+  - title: Publications（论文）
+    url: /publications/
+  - title: Projects（项目）
+    url: /projects/
+  - title: Teams（团队）
+    url: /teams/
+  # - title: Courses（课程）
+  #   url: /hobbies/
+  # # - title: Notes
+  #   # url: /notes/
+  # - title: Blogs
+  #   url: /blogs/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: China/Beijing
+future: true
+highlighter: rouge
+# markdown: kramdown
+# markdown: redcarpet
+# pygments: true
+
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  # coderay:
+  #   coderay_line_numbers:
+  #   coderay_line_numbers_start: 1
+  #   coderay_tab_width: 4
+  #   coderay_bold_every: 10
+  #   coderay_css: class
+
+
+# disqus settings:
+disqus:
+  shortname: lancecai
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
+# Latest update in 2023/11/22 by Hanlin Cai.
