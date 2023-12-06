@@ -13,7 +13,7 @@ Hangzhou, China. His current research interests include swarm intelligence and a
 
 #### Research Interests （研究方向）
 
-- Autonomous Unmanned Systems and Swarm Systems
+- Autonomous Unmanned and Unmanned Swarm Systems
 - Coordinated Control of Multi-agent Systems
 - Multi-agent Reinforcement Learning and Applications
 
