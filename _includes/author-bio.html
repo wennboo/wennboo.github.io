@@ -1,0 +1,19 @@
+<img src="{{ site.url }}/images/{{ site.owner.avatar }}" class="bio-photo" alt="{{ site.owner.name }} bio photo" width="180" height="240"></a>
+
+<!-- <h4>{{ site.owner.name }}</h4> -->
+
+<p>{{ site.owner.bio }}</p>
+
+{% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><img src="{{ site.url }}/images/logo/email.png" width="15" height="15"></i>{{ site.owner.email }}</a></p>{% endif %}
+
+
+{% if site.owner.github %}<p style="text-indent:0;"><a href="https://github.com/{{ site.owner.github }}"><img src="{{ site.url }}/images/logo/git.png" width="15" height="15"></i> github</a></p>{% endif %}
+
+
+{% if site.owner.scholar%}<p style="text-indent:0;"><a href="{{ site.owner.scholar}}"><img src="{{ site.url }}/images/logo/scholor.png" width="15" height="15"></i> google scholar</a></p>{% endif %}
+
+
+
+{% if site.owner.Institute%}<p style="text-indent:0;"><a href="{{ site.owner.Institute }}"><img src="{{ site.url }}/images/logo/hdu.png" width="15" height="15"></i> Institute</a></p>{% endif %}
+
+
