@@ -28,7 +28,7 @@ title: Publications
 - Xie D, Zhang H, Zhang H, Wang B. Exponential stability of switched systems with unstable subsystems: a mode-dependent average dwell time approach[J]. Circuits, Systems, and Signal Processing, 2013, 32 : 3093 – 3105.
 
   <br>
-#### Conference 
+#### Conference (会议)
 
 - Wang S, Wang B, Han Z, Lin Z. Local Sensing based Multi-agent Pursuit-evasion with Deep Reinforcement Learning[C] // 2022 China Automation Congress (CAC). 2022 : 6748 – 6752.
 - Wang B, Tian Y-P, Han Z. Consensus analysis of discrete-time multi-agent systems in switching networks: a time-varying Lyapunov function method[C]// 2021 40th Chinese Control Conference (CCC). 2021 : 5228 – 5233.
