@@ -9,8 +9,8 @@ title: Publications
 
 - Wang B, Tian Y-P, Han Z. Convergence to Zero of Quadratic Lyapunov Functions for Multi-Agent Systems in Time-Varying Directed Networks[J]. IEEE Transactions on Automatic Control, 2023, 68(12) : 8178 – 8184.
 - Wang B, Han Z, Zhai C, Lv X. Robust consensus of multi-agent systems with multiplicative uncertainties and its application in time synchronization[J]. International Journal of Robust and Nonlinear Control, 2023, 33(15) : 9469 –9485.
-- Feng R, Lin Z, Wu P, Han Z, Wang B. A double auction mechanism for task scheduling of an eos constellation[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
-- Feng R, Lin Z, Wu P, Han Z, Wang B. Distributed Task Scheduling for Multiple EOSs via a Game Theory Approach[J]. IEEE Transactions on Aerospace and Electronic Systems, 2022.
+- Feng R, Lin Z, Wu P, Han Z, Wang B. A double auction mechanism for task scheduling of an eos constellation[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2023, 70(7): 2490–2494.
+- Feng R, Lin Z, Wu P, Han Z, Wang B. Distributed Task Scheduling for Multiple EOSs via a Game Theory Approach[J]. IEEE Transactions on Aerospace and Electronic Systems, 2023, 59(2): 1658–1669.
 - Wang B, Tian Y P. Distributed Formation Control: Asymptotic Stabilization Results Under Local Noisy Information[J]. IEEE Transactions on Cybernetics, 2021, 51(1) : 16 – 27.
 - Wang B, Tian Y-P, Han Z. Consensus in possibly unbalanced switching networks with relative-state-dependent noises[J]. International Journal of Systems Science, 2022, 53(2) : 313 – 324.
 - Wang B, Tian Y-P. Consensus of discrete-time multi-agent systems with multiplicative uncertainties and delays[J]. International Journal of Systems Science, 2021, 52(11) : 2311 – 2323.
