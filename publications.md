@@ -7,7 +7,7 @@ title: Publications
 
 #### Journal（期刊）
 
-- Wang B, Tian Y-P, Han Z. Convergence to Zero of Quadratic Lyapunov Functions for Multi-Agent Systems in Time-Varying Directed Networks[J]. IEEE Transactions on Automatic Control, 2023.
+- Wang B, Tian Y-P, Han Z. Convergence to Zero of Quadratic Lyapunov Functions for Multi-Agent Systems in Time-Varying Directed Networks[J]. IEEE Transactions on Automatic Control, 2023, 68(12) : 8178 – 8184.
 - Wang B, Han Z, Zhai C, Lv X. Robust consensus of multi-agent systems with multiplicative uncertainties and its application in time synchronization[J]. International Journal of Robust and Nonlinear Control, 2023, 33(15) : 9469 –9485.
 - Feng R, Lin Z, Wu P, Han Z, Wang B. A double auction mechanism for task scheduling of an eos constellation[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2023.
 - Feng R, Lin Z, Wu P, Han Z, Wang B. Distributed Task Scheduling for Multiple EOSs via a Game Theory Approach[J]. IEEE Transactions on Aerospace and Electronic Systems, 2022.
