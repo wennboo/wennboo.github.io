@@ -25,7 +25,6 @@ title: Projects
 
 ##### [无人机及基于uwb的定位系统开发](https://github.com/wennboo/UWB-based-Quadrotor-Swarm-Demo-System)
 <img src="{{ site.url }}/images/uav0.png" class="floatpic" width="240" height="320">
-
 项目简介：当前已经完成四轴无人机个体开发（代码基于网上开源项目，全部重新编写，架构清晰，便于修改）及基于uwb的无人机无头模式自定位与导航。后续需进一步开发有头模式无人机自主避障与导航，以及基于2.4g模块的无人机集群组网。
 
 
@@ -38,7 +37,6 @@ title: Projects
 
 ##### [基于单目视觉的深度估计](https://github.com/wennboo/Ground-Segmentation-based-Monocular-depth-estimation)
 <img src="{{ site.url }}/images/depth-est0.png" class="floatpic" width="240" height="320">
-
 项目简介：已完成基于单目的相对深度估计。后续将对估计模型做轻量化处理，并进一步研究基于单目的领导-追随者移动小车跟随控制，完成自主避障、集群演示示范。
 
 
