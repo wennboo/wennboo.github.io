@@ -21,7 +21,7 @@ title: Projects
 - [自动化学院本科生开题报告及毕业设计latex模板](https://github.com/wennboo/HDU-Automation-School-latex-template-for-bachelor)
 
 #### Development of autonomous unmanned systems and unmanned swarm systems（自主无人系统与无人集群系统开发）
-旨在完成四轴无人机个体开发，基于UWB的室内定位系统开发，并搭建由无人机/无人车构成的异构无人集群系统，完成分布式任务分配、集群编队等演示示范，<font color=red>可通过超链接访问对应仓库，下载查看。</font>
+旨在完成四轴无人机个体开发，基于UWB的室内定位系统开发，并搭建由无人机/无人车构成的异构无人集群系统，完成分布式任务分配、集群编队等演示示范，<font color=red>可通过标题超链接访问对应仓库，下载查看。</font>
 
 ##### [无人机及基于uwb的定位系统开发](https://github.com/wennboo/UWB-based-Quadrotor-Swarm-Demo-System)
 项目简介：当前已经完成四轴无人机个体开发（代码基于网上开源项目，全部重新编写，架构清晰，便于修改）及基于uwb的无人机无头模式自定位与导航。后续需进一步开发有头模式无人机自主避障与导航，以及基于2.4g模块的无人机集群组网。
