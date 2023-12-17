@@ -5,7 +5,7 @@ title: Projects
 ---
 
 
-#### Latex Project （Latex 工程）
+#### Project on Latex（Latex 工程）
 ##### 基金类latex模板
 旨在帮助各位老师方便用latex完成国家自然科学基金的项目申请与结题，浙江省自然科学基金项目申请与结题。非官方模板，如若使用，后果自负！！！<font color=red>相关模板可通过以下超链接访问仓库，下载使用。</font>
 
@@ -20,7 +20,7 @@ title: Projects
 - [杭州电子科技大学开题/实验报告latex模板](https://github.com/wennboo/HDU-opening-experimental-report)
 - [自动化学院本科生开题报告及毕业设计latex模板](https://github.com/wennboo/HDU-Automation-School-latex-template-for-bachelor)
 
-#### Development of autonomous unmanned systems and unmanned swarm systems（自主无人系统与无人集群系统开发）
+#### Project on autonomous unmanned systems and unmanned swarm systems（自主无人系统与无人集群系统开发）
 旨在完成四轴无人机个体开发，基于UWB的室内定位系统开发，并搭建由无人机/无人车构成的异构无人集群系统，完成分布式任务分配、集群编队等演示示范，<font color=red>可通过标题超链接访问对应仓库，下载查看。</font>
 
 ##### [无人机及基于uwb的定位系统开发](https://github.com/wennboo/UWB-based-Quadrotor-Swarm-Demo-System)
@@ -43,7 +43,7 @@ title: Projects
 
 
 
-#### Multi-agent reinforcement learning and applications（多智能体强化学习及其应用）
+#### Project on Multi-agent reinforcement learning and applications（多智能体强化学习及其应用）
 
 ##### [基于多智能体强化学习的非完整智能体追逃问题](https://github.com/wennboo/Multi-Agent-Pursuit-Reinforce-Learning-Environment)
 
@@ -52,4 +52,4 @@ title: Projects
 ##### [基于多智能体强化学习的雷达干扰资源分配](https://github.com/wennboo/Multi-Agent-Pursuit-Reinforce-Learning-Environment)
 
 
-#### Multi-agent coordinated control（多智能体协同控制）
+#### Project on Multi-agent coordinated control（多智能体协同控制）
