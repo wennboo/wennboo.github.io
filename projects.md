@@ -31,7 +31,7 @@ title: Projects
 ##### [基于视觉的领导-追随者移动小车跟随控制](https://github.com/wennboo/YOLOv5-based-Vehicle-Detection-and-Formation-Tracking)
 项目简介：当前已经基于深度相机及YOLOv5等算法完成了1V1领导追随者型移动小车跟随控制算法开发与部署。后续将对检测模型轻量化、位姿高精度估计、自主避障等做进一步研究，并完成更大规模的基于视觉的集群演示验证。
 
-<img src="{{ site.url }}/images/tracking0.png" class="floatpic" width="480" height="320">
+<img src="{{ site.url }}/images/tracking0.png" class="floatpic" >
 
 ##### [基于单目视觉的深度估计](https://github.com/wennboo/Ground-Segmentation-based-Monocular-depth-estimation)
 项目简介：已完成基于单目的相对深度估计。后续将对估计模型做轻量化处理，并进一步研究基于单目的领导-追随者移动小车跟随控制，完成自主避障、集群演示示范。
