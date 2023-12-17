@@ -25,14 +25,17 @@ title: Projects
 
 ##### [无人机及基于uwb的定位系统开发](https://github.com/wennboo/UWB-based-Quadrotor-Swarm-Demo-System)
 项目简介：当前已经完成四轴无人机个体开发（代码基于网上开源项目，全部重新编写，架构清晰，便于修改）及基于uwb的无人机无头模式自定位与导航。后续需进一步开发有头模式无人机自主避障与导航，以及基于2.4g模块的无人机集群组网。
+
 <img src="{{ site.url }}/images/uav0.png" class="floatpic" width="480" height="320">
 
 ##### [基于视觉的领导-追随者移动小车跟随控制](https://github.com/wennboo/YOLOv5-based-Vehicle-Detection-and-Formation-Tracking)
 项目简介：当前已经基于深度相机及YOLOv5等算法完成了1V1领导追随者型移动小车跟随控制算法开发与部署。后续将对检测模型轻量化、位姿高精度估计、自主避障等做进一步研究，并完成更大规模的基于视觉的集群演示验证。
+
 <img src="{{ site.url }}/images/tracking0.png" class="floatpic" width="480" height="320">
 
 ##### [基于单目视觉的深度估计](https://github.com/wennboo/Ground-Segmentation-based-Monocular-depth-estimation)
 项目简介：已完成基于单目的相对深度估计。后续将对估计模型做轻量化处理，并进一步研究基于单目的领导-追随者移动小车跟随控制，完成自主避障、集群演示示范。
+
 <img src="{{ site.url }}/images/depth-est0.png" class="floatpic" width="480" height="320">
 
 #### Multi-agent reinforcement learning and applications（多智能体强化学习及其应用）
