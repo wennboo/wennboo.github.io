@@ -13,7 +13,7 @@ He is currently an Associate Professor with the [School of Automation (Artificia
 ##### Research Interests （研究方向）
 
 - Autonomous Unmanned and Unmanned Swarm Systems
-- Coordinated Estimation and Control of Multi-agent Systems
+- Cooperative Control of Multi-agent Systems
 - Multi-agent Reinforcement Learning and Applications
 
 ##### Courses（讲授课程）
