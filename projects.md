@@ -7,21 +7,21 @@ title: Projects
 
 ##### Latex 工程
 ###### 基金类latex模板
-旨在帮助各位老师方便用latex完成国家自然科学基金的项目申请与结题，浙江省自然科学基金项目申请与结题。非官方模板，如若使用，后果自负！！！<font color=blue>相关模板可通过以下蓝色超链接访问仓库，下载使用。</font>
+旨在帮助各位老师方便用latex完成国家自然科学基金的项目申请与结题，浙江省自然科学基金项目申请与结题。<font color=blue>相关模板可通过以下蓝色超链接下载使用。</font>
 
 - [<font color=blue>国家自然科学基金项目申请书latex模板</font>](https://github.com/wennboo/NSFC-application-report-latex)
 - [<font color=blue>国家自然科学基金项目结题报告latex模板</font>](https://github.com/wennboo/NSFC-concluding-report-latex)
 - [<font color=blue>浙江自然科学基金项目结题报告latex模板</font>](https://github.com/wennboo/ZPNSF-concluding-report-template/tree/main)
 
 ###### 硕博开题报告及论文latex模板
-旨在帮助杭州电子科技大学本硕博方便用latex完成学位论文。非官方模板，如若使用，后果自负！！！<font color=blue>相关模板可通过以下蓝色超链接访问仓库，下载使用。</font>
+旨在帮助杭州电子科技大学本硕博方便用latex完成学位论文。<font color=blue>相关模板可通过以下蓝色超链接下载使用。</font>
 
 - [<font color=blue>杭州电子科技大学硕博学位论文latex模板</font>](https://github.com/wennboo/HDU-latex-template-for-master)
 - [<font color=blue>杭州电子科技大学开题/实验报告latex模板</font>](https://github.com/wennboo/HDU-opening-experimental-report)
 - [<font color=blue>自动化学院本科生开题报告及毕业设计latex模板</font>](https://github.com/wennboo/HDU-Automation-School-latex-template-for-bachelor)
 
 ##### 自主无人与无人集群演示系统开发
-旨在完成四轴无人机个体开发，基于UWB的室内定位系统开发，并搭建由无人机/无人车构成的异构无人集群系统，完成分布式任务分配、集群编队等演示示范，<font color=blue>相关工程可通过标题蓝色超链接访问对应仓库，下载查看。</font>
+旨在完成四轴无人机个体开发，基于UWB的室内定位系统开发，并搭建由无人机/无人车构成的异构无人集群系统，完成分布式任务分配、集群编队等演示示范，<font color=blue>相关工程可通过蓝色标题超链接下载查看。</font>
 
 ###### [<font color=blue>无人机及基于uwb的定位系统开发</font>](https://github.com/wennboo/UWB-based-Quadrotor-Swarm-Demo-System)
 <img src="{{ site.url }}/images/uav0.png" class="floatpic" width="320" height="480">
@@ -42,7 +42,7 @@ title: Projects
 
 
 ##### 多智能体强化学习及其应用
-旨在完成面向多智能体强化学习的类似gym的一些标准环境开发，例如追逃博弈、资源分配等，为强化学习算法的验证提供良好的验证环境。<font color=blue>相关工程可通过标题蓝色超链接访问对应仓库，下载查看。</font>
+旨在完成面向多智能体强化学习的类似gym的一些标准环境开发，例如追逃博弈、资源分配等，为强化学习算法的验证提供良好的验证环境。<font color=blue>相关工程可通过蓝色标题超链接下载查看。</font>
 
 ###### [<font color=blue>基于多智能体强化学习的非完整智能体追逃问题</font>](https://github.com/wennboo/Multi-Agent-Pursuit-Reinforce-Learning-Environment)
 项目简介：完成了二维空间面向强化学习的非完整多智能体追逃环境编写，基于此环境，构建MADDPG算法，实现了智能体的自主决策。后续将对模型进行统一表征处理，使其能适应智能体数目可变的情形，以及考虑三维空间的情形。
@@ -54,7 +54,7 @@ title: Projects
 项目简介：初步完成了面向强化学习的一干扰机对多雷达的干扰资源分配环境编写，基于此环境，利用DQN算法初步实现了干扰机的干扰资源自主分配。后续将考虑更一般的贴近实际的对抗场景，并考虑多对多环境下的干扰资源分配问题，以及面向雷达探测资源分配问题，开发强化学习环境。
 
 ##### 多智能体自主协同控制
-总结自己在多智能体自主协同控制方向的一些成果及对应代码。<font color=blue>相关代码可通过标题蓝色超链接访问对应仓库，下载查看。</font>
+总结自己在多智能体自主协同控制方向的一些成果及对应代码。<font color=blue>相关代码可通过蓝色标题超链接下载查看。</font>
 ###### [<font color=blue>多智能体协同任务分配</font>](https://github.com/wennboo/Distribution-Auction-Algorithm-based-UAV-Swarm-Task-Assignment)
 
 项目简介：针对无人机集群等多智能体系统的协同静态任务分配问题，考虑了两种通信拓扑架构（连通图、联邦架构），完成了基于分布式拍卖算法的程序编写与仿真。后续将考虑更加真实的智能体自身硬件、执行任务环境因素、动态任务分配情形，完成程序编写与仿真。
