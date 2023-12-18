@@ -11,8 +11,8 @@ title: Projects
 
 - [<font color=blue>国家自然科学基金项目申请书latex模板</font>](https://github.com/wennboo/NSFC-application-report-latex)
 - [<font color=blue>国家自然科学基金项目结题报告latex模板</font>](https://github.com/wennboo/NSFC-concluding-report-latex)
-- [<font color=blue>浙江自然科学基金申请书latex模板</font>](https://github.com/wennboo/ZPNSF-application-report-template)
-- [<font color=blue>浙江自然科学基金项目结题报告latex模板</font>](https://github.com/wennboo/ZPNSF-concluding-report-template)
+- [<font color=blue>浙江省自然科学基金申请书latex模板</font>](https://github.com/wennboo/ZPNSF-application-report-template)
+- [<font color=blue>浙江省自然科学基金项目结题报告latex模板</font>](https://github.com/wennboo/ZPNSF-concluding-report-template)
 
 ###### 硕博开题报告及论文latex模板
 旨在帮助杭州电子科技大学本硕博方便用latex完成学位论文。<font color=blue>相关模板可通过以下蓝色超链接下载使用。</font>
