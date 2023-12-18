@@ -62,10 +62,10 @@ title: Projects
 <img src="{{ site.url }}/images/consensus0.png" class="floatpic" width="240" height="320">
 项目简介：针对一阶多智能体系统，完成了考虑相对状态依赖的噪声、乘性噪声等存在噪声扰动下的程序编写与仿真。针对二阶多智能体系统，完成了考虑相对状态依赖的噪声下的程序编写与仿真。
 
-##### [基于相对位置的多智能体分布式定位](https://github.com/wennboo/Distributed-Network-Localization-With-Noisy-Measurement-and-Communication-Information)
+##### [多智能体协同定位](https://github.com/wennboo/Distributed-Network-Localization-With-Noisy-Measurement-and-Communication-Information)
 
 项目简介：针对基于相对位置的不依赖于全局参考坐标系的二维空间多智能体分布式定位问题，完成了考虑距离噪声、角度噪声等存在噪声扰动下的程序编写与仿真。
 
-##### [基于扰动相对位置的多智能体分布式静态编队控制](https://github.com/wennboo/Noisy-Relative-Position-Measurement-based-Formation-Control)
+##### [多智能体分布式编队](https://github.com/wennboo/Noisy-Relative-Position-Measurement-based-Formation-Control)
 <img src="{{ site.url }}/images/formation0.png" class="floatpic" width="240" height="320">
 项目简介：针对基于相对位置的不依赖于全局参考坐标系的二维空间多智能体分布式静态编队控制问题，完成了考虑距离噪声、角度噪声等存在噪声扰动下的方位估计、编队程序编写及仿真，并与其它两种算法进行了比较。
