@@ -24,19 +24,19 @@ title: Projects
 旨在完成四轴无人机个体开发，基于UWB的室内定位系统开发，并搭建由无人机/无人车构成的异构无人集群系统，完成分布式任务分配、集群编队等演示示范，<font color=red>可通过标题超链接访问对应仓库，下载查看。</font>
 
 ##### [无人机及基于uwb的定位系统开发](https://github.com/wennboo/UWB-based-Quadrotor-Swarm-Demo-System)
-<img src="{{ site.url }}/images/uav0.png" class="floatpic" width="240" height="320">
+<img src="{{ site.url }}/images/uav0.png" class="floatpic" width="320" height="480">
 项目简介：当前已经完成四轴无人机个体开发（代码基于网上开源项目，全部重新编写，架构清晰，便于修改）及基于uwb的无人机无头模式自定位与导航。后续需进一步开发有头模式无人机自主避障与导航，以及基于2.4g模块的无人机集群组网。
 
 
 
 ##### [基于深度相机的领导-追随者移动小车跟随控制](https://github.com/wennboo/YOLOv5-based-Vehicle-Detection-and-Formation-Tracking)
-<img src="{{ site.url }}/images/tracking0.png" class="floatpic" width="240" height="320">
+<img src="{{ site.url }}/images/tracking0.png" class="floatpic" width="320" height="480">
 项目简介：当前已经基于深度相机及YOLOv5等算法完成了1v1领导追随者型移动小车跟随控制算法开发与部署。后续将对检测模型轻量化、位姿高精度估计、自主避障等做进一步研究，并完成更大规模的基于视觉的集群演示验证。
 
 
 
 ##### [基于单目视觉的领导-追随者移动小车跟随控制](https://github.com/wennboo/Ground-Segmentation-based-Monocular-depth-estimation)
-<img src="{{ site.url }}/images/depth-est0.png" class="floatpic" width="240" height="320">
+<img src="{{ site.url }}/images/depth-est0.png" class="floatpic" width="320" height="480">
 项目简介：当前已经基于SE DenseNet模型已完成基于单目的相对深度估计。后续将对估计模型做轻量化处理，并进一步研究基于单目的领导-追随者移动小车跟随控制，完成自主避障、集群演示示范。
 
 
@@ -59,7 +59,7 @@ title: Projects
 项目简介：针对无人机集群等多智能体系统的协同静态任务分配问题，考虑了两种通信拓扑架构（连通图、联邦架构），完成了基于分布式拍卖算法的程序编写与仿真。后续将考虑更加真实的智能体自身硬件、执行任务环境因素、动态任务分配情形，完成程序编写与仿真。
 
 ##### [多智能体一致性](https://github.com/wennboo/Consensus-Results-of-Single-or-Second-Order-MASs-and-Applications)
-<img src="{{ site.url }}/images/consensus0.png" class="floatpic" width="240" height="320">
+<img src="{{ site.url }}/images/consensus0.png" class="floatpic" width="320" height="480">
 项目简介：针对一阶多智能体系统，完成了考虑相对状态依赖的噪声、乘性噪声等存在噪声扰动下的程序编写与仿真。针对二阶多智能体系统，完成了考虑相对状态依赖的噪声下的程序编写与仿真。
 
 ##### [多智能体协同定位](https://github.com/wennboo/Distributed-Network-Localization-With-Noisy-Measurement-and-Communication-Information)
@@ -67,5 +67,5 @@ title: Projects
 项目简介：针对基于相对位置的不依赖于全局参考坐标系的二维空间多智能体分布式定位问题，完成了考虑距离噪声、角度噪声等存在噪声扰动下的程序编写与仿真。
 
 ##### [多智能体分布式编队](https://github.com/wennboo/Noisy-Relative-Position-Measurement-based-Formation-Control)
-<img src="{{ site.url }}/images/formation0.png" class="floatpic" width="240" height="320">
+<img src="{{ site.url }}/images/formation0.png" class="floatpic" width="320" height="480">
 项目简介：针对基于相对位置的不依赖于全局参考坐标系的二维空间多智能体分布式静态编队控制问题，完成了考虑距离噪声、角度噪声等存在噪声扰动下的方位估计、编队程序编写及仿真，并与其它两种算法进行了比较。
