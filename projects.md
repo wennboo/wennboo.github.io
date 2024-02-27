@@ -48,11 +48,11 @@ title: Projects
 ###### [<font color=blue>基于多智能体强化学习的非完整智能体追逃问题</font>](https://github.com/wennboo/Multi-Agent-Pursuit-Reinforce-Learning-Environment)
 项目简介：完成了二维空间面向强化学习的非完整多智能体追逃环境编写，基于此环境，构建MADDPG算法，实现了智能体的自主决策。后续将对模型进行统一表征处理，使其能适应智能体数目可变的情形，以及考虑三维空间的情形。
 
-###### [<font color=blue>基于多智能体强化学习的无人机集群对抗机动决策</font>](https://github.com/wennboo/Multi-Agent-Pursuit-Reinforce-Learning-Environment)
-项目简介：初步完成了三维空间面向强化学习的多机对抗协同机动决策环境编写。后续将利用强化学习算法，实现多对多对抗下无人机自主机动决策。
+###### [<font color=blue>基于多智能体强化学习的无人机集群对抗机动决策</font>](https://github.com/wennboo/UAV-swarm-confrontation-maneuver-decision-making-based-on-multi-agent-reinforcement-learning)
+项目简介：初步完成了三维空间面向强化学习的多机对抗协同机动决策环境编写（代码待上传）。后续将利用强化学习算法，实现多对多对抗下无人机自主机动决策。
 
-###### [<font color=blue>基于多智能体强化学习的雷达干扰资源分配</font>](https://github.com/wennboo/Multi-Agent-Pursuit-Reinforce-Learning-Environment)
-项目简介：初步完成了面向强化学习的一干扰机对多雷达的干扰资源分配环境编写，基于此环境，利用DQN算法初步实现了干扰机的干扰资源自主分配。后续将考虑更一般的贴近实际的对抗场景，并考虑多对多环境下的干扰资源分配问题，以及面向雷达探测资源分配问题，开发强化学习环境。
+###### [<font color=blue>基于多智能体强化学习的雷达干扰资源分配</font>](https://github.com/wennboo/Radar-jamming-resource-allocation-based-on-multi-agent-reinforcement-learning)
+项目简介：初步完成了面向强化学习的一干扰机对多雷达的干扰资源分配环境编写（代码待上传），基于此环境，利用DQN算法初步实现了干扰机的干扰资源自主分配。后续将考虑更一般的贴近实际的对抗场景，并考虑多对多环境下的干扰资源分配问题，以及面向雷达探测资源分配问题，开发强化学习环境。
 
 ##### 多智能体自主协同控制
 旨在总结自己在多智能体自主协同控制方向的一些成果及对应代码。<font color=blue>相关代码可通过蓝色标题超链接下载查看。</font>
