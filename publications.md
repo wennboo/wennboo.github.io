@@ -6,7 +6,13 @@ title: Publications
 
 
 ##### Journal（期刊）
-
+- Wang B, Lv X. Drift compensation of time synchronization in WSNs with random delays: A new threshold based design[J]. Automatica, 2025, 173: 112088.
+- Wang B, Han Z, Zhai C, et al. Stochastic Approximation in Unbalanced Time‐Varying Networks for Robust Distributed Coordinated Control[J]. International Journal of Robust and Nonlinear Control, 2025, 35(15): 6579-6588.
+- Tang H, Wang B, Zhou X, et al. RGB-D image-based real-time pose estimation algorithm for mobile robots with rectangular body[J]. Robotica, 2025, 43(8): 3080-3093.
+- Zhang A, Lin Z, Wang B, et al. A double neural network model predictive control method for series elastic actuator’s motor thermal protection[J]. Measurement Science and Technology, 2025, 36(1): 016232.
+- Chen X, Zhai C, Chen C, Zhao J, Wang B, et al. Adaptive Resilient Control for Vehicle Platoons under Hybrid Cyber Attacks, Actuator Saturation and Parameter Uncertainties[J]. IEEE Internet of Things Journal, 2025, 13(4): 6669-6682.
+- Zhai C, Zhan Y, Zhou H, Wang B, et al. A novel sliding mode control strategy for heterogeneous vehicle platoons based on an improved cth policy[J]. International Journal of Automotive Technology, 2025, 26(4): 1127-1145.
+- He H, Dong X, Zhou X, Wang B, et al. Interactive fusion and correlation network for three-modal images few-shot semantic segmentation[J]. IEEE Signal Processing Letters, 2024, 31: 2430-2434.
 - Wang B, Tian Y-P, Han Z. Convergence to Zero of Quadratic Lyapunov Functions for Multi-Agent Systems in Time-Varying Directed Networks[J]. IEEE Transactions on Automatic Control, 2023, 68(12) : 8178 – 8184.
 - Wang B, Han Z, Zhai C, Lv X. Robust consensus of multi-agent systems with multiplicative uncertainties and its application in time synchronization[J]. International Journal of Robust and Nonlinear Control, 2023, 33(15) : 9469 –9485.
 - Feng R, Lin Z, Wu P, Han Z, Wang B. A double auction mechanism for task scheduling of an eos constellation[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2023, 70(7): 2490–2494.
@@ -29,7 +35,11 @@ title: Publications
 
 
 ##### Conference (会议)
-
+- Yang X, Wang B, Lv Q, et al. MAPPO and Auction Algorithm Based Multi-Target Hunting Algorithm Design and Simulation[C]//2025 37th Chinese Control and Decision Conference (CCDC). IEEE, 2025: 4004-4009.
+- Du Y, Wang B, Han Z, et al. Distributed Time Synchronization Algorithm in WSNs with Communication Noises, Delays and Unbalanced Topologies[C]//2025 37th Chinese Control and Decision Conference (CCDC). IEEE, 2025: 6574-6579.
+- Jiang S, Wang B. MADDPG based radar interference resource allocation decision[C]//2024 China Automation Congress (CAC). IEEE, 2024: 3204-3209.
+- Lin A, Wang B, Han Z, et al. MAPPO and Hungarian Algorithm Based Collaborative Decision-Making for UAV Air Combat[C]//2024 China Automation Congress (CAC). IEEE, 2024: 3055-3060.
+- Zhang L, Han Z, Wang B, et al. Incorporating Steering Constraints in AGV Path Planning Through Graph Augmentation[C]//2024 3rd Conference on Fully Actuated System Theory and Applications (FASTA). IEEE, 2024: 455-459.
 - Wang S, Wang B, Han Z, Lin Z. Local Sensing based Multi-agent Pursuit-evasion with Deep Reinforcement Learning[C] // 2022 China Automation Congress (CAC). 2022 : 6748 – 6752.
 - Wang B, Tian Y-P, Han Z. Consensus analysis of discrete-time multi-agent systems in switching networks: a time-varying Lyapunov function method[C]// 2021 40th Chinese Control Conference (CCC). 2021 : 5228 – 5233.
 - Wang B, Tian Y-P, Han Z. Distributed Orientation Estimate of Single-integrator Multi-agent Systems with Measurement Noises in Time-varying Networks[C] // 2021 China Automation Congress (CAC). 2021 : 5667 – 5672.

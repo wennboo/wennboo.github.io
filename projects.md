@@ -9,7 +9,7 @@ title: Projects
 ###### 基金类latex模板
 旨在帮助各位老师方便用latex完成国家自然科学基金的项目申请与结题，浙江省自然科学基金项目申请与结题。<font color=blue>相关模板可通过以下蓝色超链接下载使用。</font>
 
-- [<font color=blue>国家自然科学基金项目申请书latex模板</font>](https://github.com/wennboo/NSFC-application-report-latex)
+- [<font color=blue>国家自然科学基金项目申请书latex模板</font>](https://github.com/wennboo/2026NSFC-application-report-latex----)
 - [<font color=blue>国家自然科学基金项目结题报告latex模板</font>](https://github.com/wennboo/NSFC-concluding-report-latex)
 - [<font color=blue>浙江省自然科学基金申请书latex模板</font>](https://github.com/wennboo/ZPNSF-application-report-template)
 - [<font color=blue>浙江省自然科学基金项目结题报告latex模板</font>](https://github.com/wennboo/ZPNSF-concluding-report-template)
@@ -35,11 +35,9 @@ title: Projects
 项目简介：当前已经基于深度相机及YOLOv5等算法完成了1v1领导追随者型移动小车跟随控制算法开发与部署。后续将对检测模型轻量化、位姿高精度估计、自主避障等做进一步研究，并完成更大规模的基于视觉的集群演示验证。
 
 
-
 ###### [<font color=blue>基于单目视觉的领导-追随者移动小车跟随控制</font>](https://github.com/wennboo/Ground-Segmentation-based-Monocular-depth-estimation)
 <img src="{{ site.url }}/images/depth-est0.png" class="floatpic" width="320" height="480">
 项目简介：当前已经基于SE DenseNet模型已完成基于单目的相对深度估计。后续将对估计模型做轻量化处理，并进一步研究基于单目的领导-追随者移动小车跟随控制，完成自主避障、集群演示示范。
-
 
 
 ##### 多智能体强化学习及其应用
@@ -49,10 +47,10 @@ title: Projects
 项目简介：完成了二维空间面向强化学习的非完整多智能体追逃环境编写，基于此环境，构建MADDPG算法，实现了智能体的自主决策。后续将对模型进行统一表征处理，使其能适应智能体数目可变的情形，以及考虑三维空间的情形。
 
 ###### [<font color=blue>基于多智能体强化学习的无人机集群对抗机动决策</font>](https://github.com/wennboo/UAV-swarm-confrontation-maneuver-decision-making-based-on-multi-agent-reinforcement-learning)
-项目简介：初步完成了三维空间面向强化学习的多机对抗协同机动决策环境编写（代码待上传）。后续将利用强化学习算法，实现多对多对抗下无人机自主机动决策。
+项目简介：完成了三维空间面向强化学习的多机对抗协同机动决策环境编写。后续将利用强化学习算法，实现多对多对抗下无人机自主机动决策。
 
 ###### [<font color=blue>基于多智能体强化学习的雷达干扰资源分配</font>](https://github.com/wennboo/Radar-jamming-resource-allocation-based-on-multi-agent-reinforcement-learning)
-项目简介：初步完成了面向强化学习的一干扰机对多雷达的干扰资源分配环境编写（代码待上传），基于此环境，利用DQN算法初步实现了干扰机的干扰资源自主分配。后续将考虑更一般的贴近实际的对抗场景，并考虑多对多环境下的干扰资源分配问题，以及面向雷达探测资源分配问题，开发强化学习环境。
+项目简介：完成了面向强化学习的一干扰机对多雷达的干扰资源分配环境编写，基于此环境，利用DQN算法初步实现了干扰机的干扰资源自主分配。
 
 ##### 多智能体自主协同控制
 旨在总结自己在多智能体自主协同控制方向的一些成果及对应代码。<font color=blue>相关代码可通过蓝色标题超链接下载查看。</font>
